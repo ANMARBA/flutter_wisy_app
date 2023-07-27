@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770976105802",
+    "project_id": "flutter-wisy-app",
+    "storage_bucket": "flutter-wisy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770976105802:android:c46d014e05f7b40bde6db3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_wisy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770976105802-ccjm26htjcktbcbo36mhuddboof5udtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1alJPnd1aTbFXXzKc9580_dTiYrToAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770976105802-ccjm26htjcktbcbo36mhuddboof5udtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
